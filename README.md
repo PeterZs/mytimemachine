@@ -33,7 +33,7 @@
         <a href="https://arxiv.org/abs/2411.14521" target='_blank'>
         <img src="https://img.shields.io/badge/arXiv-2411.14521-b31b1b.svg">
         </a>
-        <img src="https://badges.strrl.dev/visits/luchaoqi/mytimemachine"
+        <img src="https://visitor-badge.laobi.icu/badge?page_id=luchaoqi.mytimemachine"
     </h4>
 </div>
 
