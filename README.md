@@ -33,7 +33,7 @@
         <a href="https://arxiv.org/abs/2411.14521" target='_blank'>
         <img src="https://img.shields.io/badge/arXiv-2411.14521-b31b1b.svg">
         </a>
-        <img src="https://badges.strrl.dev/visits/luchaoqi/mytimemachine"
+        <img src="https://visitor-badge.laobi.icu/badge?page_id=luchaoqi.mytimemachine"
     </h4>
 </div>
 
@@ -181,11 +181,15 @@ We recommend starting with a value of `7`.
 
 ## ⚡ Inference
 
-We provide code to run inference after trained the model:
+We provide code to run inference after training the model:
 
 ```python
 python helper.py --img_dir={path_to_test_data} --model_path={path_to_experiment_saving_dir} --blender --output_dir={path_to_output_dir}
 ```
+
+For example, you may use this [checkpoint](https://drive.google.com/file/d/1RvQ-qTVHwYYMtBYtbbEEB_3Vex8GfB9U/view?usp=sharing), trained on Al Pacino (ages 30–70) with `adaptive_w_norm_lambda=7`, and obtain the results shown below. The input is on the left, followed by the predicted appearance at every 10-year interval from age 0 to 100.
+<img width="12314" height="1028" alt="76_00 (1)" src="https://github.com/user-attachments/assets/a894dbc0-608e-416d-9dee-4a5a84de74ec" />
+
 
 For pre-trained (SAM) results:
 
