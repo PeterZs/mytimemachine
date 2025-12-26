@@ -33,7 +33,8 @@
         <a href="https://arxiv.org/abs/2411.14521" target='_blank'>
         <img src="https://img.shields.io/badge/arXiv-2411.14521-b31b1b.svg">
         </a>
-        <img src="https://visitor-badge.laobi.icu/badge?page_id=luchaoqi.mytimemachine"
+        <img src="https://visitor-badge.laobi.icu/badge?page_id=luchaoqi.mytimemachine">
+        <img src="https://views-counter.vercel.app/badge?pageId=luchaoqi%2Fmytimemachine&leftColor=000000&rightColor=0adb3f&type=total&label=Viewers&style=none" alt="Views Counter">
     </h4>
 </div>
 
